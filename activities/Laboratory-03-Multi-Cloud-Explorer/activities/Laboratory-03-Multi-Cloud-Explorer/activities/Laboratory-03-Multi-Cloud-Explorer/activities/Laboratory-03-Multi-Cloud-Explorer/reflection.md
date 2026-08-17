@@ -1,1 +1,9 @@
+# Mission Reflection
 
+ natutunan ko ang mas malalim na pag-unawa sa tatlong pangunahing cloud platform: AWS, Microsoft Azure, at Google Cloud Platform (GCP). Sa tatlong ito, ang pinaka-nagustuhan ko and I chose this because I am more familiar with the platform and find it easier to understand and use. I believe it can help me complete my project efficiently while improving my skills. I also noticed how each platform differs in specialization—AWS is strong in general services because it is the market leader, Azure is suitable for organizations already using the Microsoft ecosystem, while GCP is strongest in data analytics and artificial intelligence.
+
+Bagama't magkakaiba, napansin ko rin na marami silang pagkakatulad sa pangunahing istruktura. Lahat sila ay nag-aalok ng compute, storage, database, at serverless services — magkaiba lang ang pangalan pero halos parehas ang function (hal. AWS EC2, Azure VMs, GCP Compute Engine). Ipinapakita nito na sumusunod sila sa parehong prinsipyo ng cloud computing: on-demand resources, scalability, at pay-as-you-go pricing.
+
+Natutunan ko rin na hindi dapat basehan sa popularidad lamang ang pagpili ng cloud platform, kundi sa aktwal na pangangailangan ng negosyo. Sa Checkpoint 4, nakita ko kung paano nagbabago ang rekomendasyon depende sa scenario — mas angkop ang Azure para sa unibersidad na Microsoft-based na, samantalang mas angkop ang GCP para sa AI research company. Ipinapakita nito kung paano dapat mag-isip ang isang Cloud Solutions Architect: kailangan ng teknikal na kaalaman kasabay ng pag-unawa sa business context ng kliyente.
+
+Sa pamamagitan ng aktibidad na ito, mas naunawaan ko ang aking papel bilang Cloud Solutions Consultant — na dapat bigyang-diin ang tamang solusyon batay sa pangangailangan ng kliyente. Nagbigay rin ito ng pagkakataon para gawing mas propesyonal ang GitHub Cloud Computing Portfolio ko, sa pamamagitan ng maayos na dokumentasyon at organisadong ebidensya ng bawat checkpoint.
